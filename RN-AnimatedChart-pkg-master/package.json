@@ -1,0 +1,36 @@
+{
+  "name": "react-native-animated-chart",
+  "version": "0.0.9",
+  "description": "",
+  "main": "index.tsx",
+  "private": false,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem711/react-native-animated-chart.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "Artem Moshnin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem711/react-native-animated-chart/issues"
+  },
+  "homepage": "https://github.com/Artem711/react-native-animated-chart#readme",
+  "dependencies": {
+    "@react-navigation/native": "^5.7.6",
+    "moment": "^2.29.1",
+    "react": "^16.14.0",
+    "react-native": "^0.63.3",
+    "react-native-reanimated": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.52",
+    "@types/react-native": "^0.63.25"
+  },
+  "keywords": [
+    "React Native",
+    "TypeScript"
+  ]
+}
